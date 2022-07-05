@@ -1,0 +1,50 @@
+.dropdown-menu {
+   
+    text-align: center;
+    position: relative;
+    
+  }
+
+  .dropdown-menu li :hover{
+    background-color:#340A8E;
+  }
+
+  .navbar-brand :hover{
+    background-color:white;
+
+  }
+
+  body{
+    margin: 0px;
+    font-family: "Avenir Next";
+  }
+
+  hr{
+    width: 30%;
+    height: 8px ;
+    color: var(--warna5);
+    margin: 0 auto;
+    opacity: 100%;
+    margin-bottom: 20px;
+    padding: 1.5px;
+}
+
+.kartu{
+  background-color: #340A8E;
+  
+  border-radius: 20px;
+  height: 260px;
+  
+}
+.kartu:hover{
+  background-color: #0d5dc5;
+
+}
+
+.btn-danger:hover{
+    background-color: hsl(259, 66%, 42%);
+    border-color: hsl(259, 66%, 42%);
+    box-shadow : 0px 0px 10px black !important;
+
+  }
+  
